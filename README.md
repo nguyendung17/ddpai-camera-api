@@ -4,4 +4,4 @@ Develop an application run on android provider features:
 - Broadcast video into youtube by FFMPGE library.
 
 links:
-https://www.eionix.co.in/2019/10/10/reverse-engineer-ddpai-firmware.html
+bit.ly/3UTPdXI
