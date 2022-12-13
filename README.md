@@ -4,4 +4,4 @@ Develop an application run on android provider features:
 - Broadcast video into youtube by FFMPGE library.
 
 links:
-bit.ly/3UTPdXI
+https://bit.ly/3UTPdXI
